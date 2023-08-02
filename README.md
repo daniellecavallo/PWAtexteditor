@@ -5,6 +5,7 @@ Text editor that runs in the browser. The app will be a single-page application 
 
 ## Installation
 - Run npm install and that will bring you to localhost3000.
+- Navigate to Heroku through this link https://afternoon-fortress-67925-7fc1c0a8dea0.herokuapp.com 
 
 
 ## Usage
